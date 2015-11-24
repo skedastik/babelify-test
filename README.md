@@ -39,3 +39,7 @@ What about Babel-CLI?
     user    0m5.067s
     sys     0m0.456s
     
+
+## The solution
+
+Use NPM3! Flatter dependency trees = faster builds.
